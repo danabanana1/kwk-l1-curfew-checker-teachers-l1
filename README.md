@@ -24,14 +24,8 @@ end
 
 Start by writing a simple method that takes in `time` as a parameter and uses an **if statement** to check if `time` is greater than or equal to curfew, 11. To pass the spec, check out what the test what you to output. Type `learn` into your command line from the **root directory of the project** to see if the first test passes.
 
-```ruby
-  def simple_curfew_checker (time)
-   if time => 11
-      puts "You're in trouble! Better get home quick!"
-    end
-  end 
 
-```
+
 
 ### Curfew Checker
 
